@@ -1,17 +1,14 @@
 {
-  "name": "webeleon-next-starter",
-  "author": "Webeleon",
+  "name": "ui-experiments",
+  "author": "julien@webeleon",
   "contributors": [
     {
       "name": "julien prugne",
       "email": "julien@webeleon.dev"
-    },
-    {
-      "name": "@erikdstock"
     }
   ],
   "license": "MIT",
-  "version": "2.3.0",
+  "version": "0.0.0",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
