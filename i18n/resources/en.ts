@@ -1,16 +1,6 @@
 export const en = {
   translation: {
-    home: {
-      title: 'NextJs Typescript Template',
-      alt: {
-        coverage: 'Coverage Status',
-        prettier: 'Code style: prettier',
-        testAndCoverage: 'test and coverage',
-      },
-      useMeOnGithub: 'Use me on github!',
-      byWebeleon:
-        'Proudly built and maintained by Webeleon SARL from Brest in France',
-    },
+    home: {},
     copyright: {
       header: 'Copyright 2020-{{end}} Webeleon SARL',
       permission:
