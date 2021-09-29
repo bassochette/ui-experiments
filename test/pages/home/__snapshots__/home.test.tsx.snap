@@ -4,6 +4,80 @@ exports[`Home page matches snapshot 1`] = `
 <DocumentFragment>
   <div
     class="app"
-  />
+  >
+    <div>
+      <p>
+        Profile card
+      </p>
+      <div>
+        <div>
+          <p>
+            Julien Prugne
+          </p>
+          <section>
+            <img
+              alt="Julien Prugne photo"
+              src="/images/ProfileCard/mugshot_julien.jpg"
+            />
+          </section>
+          <section>
+            <a
+              href="https://github.com/bassochette"
+            >
+              <img
+                alt="Julien Prugne's GitHub profile"
+                src="/vendors/github/PNG/GitHub-Mark-120px-plus.png"
+              />
+            </a>
+            <a
+              href="https://twitter.com/bassochette"
+            >
+              <img
+                alt="ProfileCard.twitterAlt"
+                src="/vendors/twitter/Twitter logo/PNG/2021 Twitter logo - black.png"
+              />
+            </a>
+            <a
+              href="https://dev.to/bassochette"
+            >
+              <img
+                alt="Julien Prugne's dev.to profile"
+                src="/vendors/devto/dev-black.png"
+              />
+            </a>
+          </section>
+        </div>
+        <div>
+          <p>
+            Webeleon
+          </p>
+          <section>
+            <img
+              alt="Webeleon photo"
+              src="/images/ProfileCard/logo.png"
+            />
+          </section>
+          <section>
+            <a
+              href="https://github.com/webeleon"
+            >
+              <img
+                alt="Webeleon's GitHub profile"
+                src="/vendors/github/PNG/GitHub-Mark-120px-plus.png"
+              />
+            </a>
+            <a
+              href="https://dev.to/webeleon"
+            >
+              <img
+                alt="Webeleon's dev.to profile"
+                src="/vendors/devto/dev-black.png"
+              />
+            </a>
+          </section>
+        </div>
+      </div>
+    </div>
+  </div>
 </DocumentFragment>
 `;
