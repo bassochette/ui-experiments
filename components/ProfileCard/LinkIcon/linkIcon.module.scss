@@ -1,0 +1,10 @@
+.container {
+
+}
+
+.img {
+  height: 64px;
+  &:hover {
+    opacity: 0.8;
+  }
+}
