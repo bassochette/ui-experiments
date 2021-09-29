@@ -5,7 +5,6 @@ import { LinkIcon } from './LinkIcon/LinkIcon';
 
 export interface ProfileCardProps {
   name: string;
-  title: string;
   profilePicture: string;
   github?: string;
   twitter?: string;

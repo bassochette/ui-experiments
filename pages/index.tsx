@@ -8,7 +8,6 @@ export const Home = (): JSX.Element => {
         <ProfileCard
           name="Julien Prugne"
           profilePicture="/images/ProfileCard/mugshot_julien.jpg"
-          email="julien@webeleon.dev"
           github="bassochette"
           twitter="bassochette"
           devto="bassochette"
@@ -17,7 +16,6 @@ export const Home = (): JSX.Element => {
         <ProfileCard
           name="Webeleon"
           profilePicture="/images/ProfileCard/logo.png"
-          email="contact@webeleon.dev"
           github="webeleon"
           devto="webeleon"
         />
