@@ -14,6 +14,7 @@ export const en = {
       pictureAlt: '{{name}} photo',
       githubAlt: "{{name}}'s GitHub profile",
       devtoAlt: "{{name}}'s dev.to profile",
+      twitterAlt: "{{name}}'s twitter profile",
     },
   },
 };

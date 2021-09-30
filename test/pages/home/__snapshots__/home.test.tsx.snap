@@ -33,7 +33,7 @@ exports[`Home page matches snapshot 1`] = `
               href="https://twitter.com/bassochette"
             >
               <img
-                alt="ProfileCard.twitterAlt"
+                alt="Julien Prugne's twitter profile"
                 src="/vendors/twitter/Twitter logo/PNG/2021 Twitter logo - black.png"
               />
             </a>
