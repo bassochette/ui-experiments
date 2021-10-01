@@ -10,6 +10,7 @@ class WebeleonCustomDocument extends Document {
     return (
       <Html>
         <Head>
+          <title>UI experiments</title>
           <link rel="manifest" href="/manifest.json" />
         </Head>
         <body>
