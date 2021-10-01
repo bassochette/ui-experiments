@@ -6,6 +6,104 @@ exports[`Home page matches snapshot 1`] = `
     class="app"
   >
     <div>
+      <div>
+        <p>
+          Buttons
+        </p>
+        <div>
+          <div
+            class=""
+          >
+            Basic
+          </div>
+          <div
+            class=""
+          >
+            Info
+          </div>
+          <div
+            class=""
+          >
+            Sucess
+          </div>
+          <div
+            class=""
+          >
+            Warning
+          </div>
+          <div
+            class=""
+          >
+            Danger
+          </div>
+        </div>
+      </div>
+      <div>
+        <p>
+          Buttons loading
+        </p>
+        <div>
+          <div
+            class=""
+          >
+            Basic loading
+          </div>
+          <div
+            class=""
+          >
+            Info loading
+          </div>
+          <div
+            class=""
+          >
+            Sucess loading
+          </div>
+          <div
+            class=""
+          >
+            Warning loading
+          </div>
+          <div
+            class=""
+          >
+            Danger loading
+          </div>
+        </div>
+      </div>
+      <div>
+        <p>
+          Buttons disabled
+        </p>
+        <div>
+          <div
+            class=""
+          >
+            Basic disabled
+          </div>
+          <div
+            class=""
+          >
+            Info disabled
+          </div>
+          <div
+            class=""
+          >
+            Sucess disabled
+          </div>
+          <div
+            class=""
+          >
+            Warning disabled
+          </div>
+          <div
+            class=""
+          >
+            Danger disabled
+          </div>
+        </div>
+      </div>
+    </div>
+    <div>
       <p>
         Profile card
       </p>

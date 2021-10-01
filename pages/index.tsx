@@ -1,25 +1,11 @@
-import { Demo } from '../components/Demo/Demo';
-import { ProfileCard } from '../components/ProfileCard/ProfileCard';
+import { ButtonDemo } from '../components/Button/Button.demo';
+import { ProfileCardDemo } from '../components/ProfileCard/ProfileCard.demo';
 
 export const Home = (): JSX.Element => {
   return (
     <div className="app">
-      <Demo title="Profile card">
-        <ProfileCard
-          name="Julien Prugne"
-          profilePicture="/images/ProfileCard/mugshot_julien.jpg"
-          github="bassochette"
-          twitter="bassochette"
-          devto="bassochette"
-        />
-
-        <ProfileCard
-          name="Webeleon"
-          profilePicture="/images/ProfileCard/logo.png"
-          github="webeleon"
-          devto="webeleon"
-        />
-      </Demo>
+      <ButtonDemo />
+      <ProfileCardDemo />
     </div>
   );
 };
