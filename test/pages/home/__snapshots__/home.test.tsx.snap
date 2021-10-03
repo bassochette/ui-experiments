@@ -11,31 +11,31 @@ exports[`Home page matches snapshot 1`] = `
           Buttons
         </p>
         <div>
-          <div
+          <button
             class=""
           >
             Basic
-          </div>
-          <div
+          </button>
+          <button
             class=""
           >
             Info
-          </div>
-          <div
+          </button>
+          <button
             class=""
           >
             Sucess
-          </div>
-          <div
+          </button>
+          <button
             class=""
           >
             Warning
-          </div>
-          <div
+          </button>
+          <button
             class=""
           >
             Danger
-          </div>
+          </button>
         </div>
       </div>
       <div>
@@ -43,31 +43,31 @@ exports[`Home page matches snapshot 1`] = `
           Buttons loading
         </p>
         <div>
-          <div
+          <button
             class=""
           >
             Basic loading
-          </div>
-          <div
+          </button>
+          <button
             class=""
           >
             Info loading
-          </div>
-          <div
+          </button>
+          <button
             class=""
           >
             Sucess loading
-          </div>
-          <div
+          </button>
+          <button
             class=""
           >
             Warning loading
-          </div>
-          <div
+          </button>
+          <button
             class=""
           >
             Danger loading
-          </div>
+          </button>
         </div>
       </div>
       <div>
@@ -75,31 +75,31 @@ exports[`Home page matches snapshot 1`] = `
           Buttons disabled
         </p>
         <div>
-          <div
+          <button
             class=""
           >
             Basic disabled
-          </div>
-          <div
+          </button>
+          <button
             class=""
           >
             Info disabled
-          </div>
-          <div
+          </button>
+          <button
             class=""
           >
             Sucess disabled
-          </div>
-          <div
+          </button>
+          <button
             class=""
           >
             Warning disabled
-          </div>
-          <div
+          </button>
+          <button
             class=""
           >
             Danger disabled
-          </div>
+          </button>
         </div>
       </div>
     </div>
