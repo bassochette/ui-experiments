@@ -61,7 +61,7 @@ export const Button: FunctionComponent<ButtonProps> = ({
   };
 
   return (
-    <div
+    <button
       className={classnames(
         css['button'],
         getButtonTypeClass(type),
@@ -74,6 +74,6 @@ export const Button: FunctionComponent<ButtonProps> = ({
     >
       {children}
       {tip && hover && <div className={css['tip']}>{tip}</div>}
-    </div>
+    </button>
   );
 };
